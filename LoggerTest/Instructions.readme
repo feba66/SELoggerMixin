@@ -1,0 +1,7 @@
+﻿R e a d m e
+-----------
+
+The logger can be used to log in four levels to the PB's echo, any IMyTextSurface or to any Block's CustomData.
+
+All combinations of these are possible.
+Error checking is limited, as in, ... None.
